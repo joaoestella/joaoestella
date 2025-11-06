@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mim
 Sou apaixonado por transformar dados em conhecimento.  
-Tenho experiência com **Python** e **SQL** aplicados à análise, modelagem e visualização de dados, além de projetos que envolvem **Machine Learning**, **Visão Computacional** e **IoT**.  
+Tenho experiência com **Python** e **SQL** aplicados à análise, modelagem e visualização de dados.
 Atualmente, estou aprofundando meus estudos em **Pandas**, **Scikit-learn** e conceitos de **modelos preditivos**.  
 
 ---
