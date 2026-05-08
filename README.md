@@ -74,7 +74,3 @@ Vehicle data collection via Bluetooth + OBD2 module. Created the integration bet
 📧 [joaovitorefranca@gmail.com](mailto:joaovitorefranca@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/joaoestella)  
 💻 [GitHub](https://github.com/joaoestella)
-
----
-
-⭐ *If you're building with AI or just exploring the space, feel free to explore my repos and reach out!*
