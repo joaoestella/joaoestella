@@ -69,3 +69,31 @@ Mobile app built with App Inventor, connecting via Bluetooth to an OBD2 module f
 Email: [joaovitorefranca@gmail.com](mailto:joaovitorefranca@gmail.com)  
 LinkedIn: [linkedin.com/in/joaoestella](https://www.linkedin.com/in/joaoestella)  
 GitHub: [github.com/joaoestella](https://github.com/joaoestella)
+
+
+```
+                                                          (
+                                                            )     (
+                                                     ___...(-------)-....___
+                                                 .-""       )    (          ""-.
+                                           .-'``'|-._             )         _.-|
+                                          /  .--.|   `""---...........---""`   |
+                                         /  /    |                             |
+                                         |  |    |                             |
+                                          \  \   |                             |
+                                           `\ `\ |                             |
+                                             `\ `|                             |
+                                             _/ /\                             /
+                                            (__/  \                           /
+                                         _..---""` \                         /`""---.._
+                                      .-'           \                       /          '-.
+                                     :               `-.__             __.-'              :
+                                     :                  ) ""---...---"" (                 :
+                                      '._               `"--...___...--"`              _.'
+                                        \""--..__                              __..--""/
+                                         '._     """----.....______.....----"""     _.'
+                                            `""--..,,_____            _____,,..--""`
+                                                          `"""----"""`
+```
+
+ 
